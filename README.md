@@ -1,2 +1,2 @@
 # Handwrittencharrecog
-Given list of Alphabetic characters, which are recognized using K-Means clustering algorithm.
+Given list of Alphabetic characters, which are recognized using ML algorithm.
